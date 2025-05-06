@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'chenxin' => 'chenxin@tigerbrokers.com' }
-  s.source           = { :git => 'https://git.tigerbrokers.net/ios/GTCaptcha4.git', :tag => s.version }
+  s.source           = { :git => 'https://github.com/tigerfintech/GTCaptcha4.git', :tag => s.version }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '12.0'
